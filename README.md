@@ -1,4 +1,4 @@
-# startup_namer
+# Flutter wallet
 
 A new Flutter project.
 
